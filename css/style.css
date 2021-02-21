@@ -194,3 +194,7 @@ body {
 .projectActiveColor {
 	color: #ff6b08;
 }
+.linkContact {
+	text-decoration: none;
+	font-style: normal;
+}
